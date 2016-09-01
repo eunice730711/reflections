@@ -21,8 +21,15 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+	to realize when I checkout a commit, what commit will loose.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+	
+	to realize what to merge
 
 What are the pros and cons of Git�䏭 automatic merging vs. always doing merges
 manually?
+	
+	doing merges manually let us decide which version to choose
+
